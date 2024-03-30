@@ -1,9 +1,12 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://raw.githubusercontent.com/cristian1clj/cristian1clj/main/avatar-s.png">
+  <h1>Hi there, I'm Cristian Losada 👋</h1>
+</div>
 
+I aspire to become a front-end developer, dedicating myself to learning and doing everything possible to achieve that goal ⭐.
+
+Just before finishing school, I discovered my passion for development, which prompted me to pursue software engineering studies. Since then, I’ve delved into researching various career paths within software development, including back-end, test automation, and front-end. While all these options are appealing, I find myself drawn to front-end development.
 <!--
-**cristian1clj/cristian1clj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

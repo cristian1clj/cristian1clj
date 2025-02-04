@@ -45,22 +45,17 @@
 ![HTML](https://img.shields.io/badge/html-e34f26?style=for-the-badge&labelColor=black&logo=html5&logoColor=e34f26)
 ![CSS3](https://img.shields.io/badge/css-1572b6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572b6)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Angular](https://img.shields.io/badge/-Angular-dd002e?style=for-the-badge&labelColor=black&logo=angular&logoColor=dd002e)
 
 ### Back-end
 
-![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&labelColor=black&logo=python&logoColor=3776ab)
-![Flask](https://img.shields.io/badge/Flask-6bc0cd?style=for-the-badge&labelColor=black&logo=flask&logoColor=6bc0cd)
-![MySQL](https://img.shields.io/badge/Mysql-00537f?style=for-the-badge&labelColor=black&logo=mysql&logoColor=00537f)
-
-### Test automation
-
-![WebdriverIO](https://img.shields.io/badge/webdriverio-ea5906?style=for-the-badge&labelColor=black&logo=webdriverio&logoColor=ea5906)
+![NestJS](https://img.shields.io/badge/nestjs-d9204a?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=d9204a)
+![SQL](https://img.shields.io/badge/sql-00537f?style=for-the-badge&labelColor=black&logo=rxdb&logoColor=00537f)
 
 ### Tools
 
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-032437?style=for-the-badge&logo=amazonwebservices%20studio&logoColor=032437)
 
 <br/>
 
